@@ -1,0 +1,5 @@
+sphinx
+sphinx-bootstrap
+recommonmark
+sphinxcontrib-bibtex
+
