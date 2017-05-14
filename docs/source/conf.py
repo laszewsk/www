@@ -122,10 +122,10 @@ html_theme_options = {
     #    (name, "http://example.com", True) # arbitrary absolute url
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
-    'navbar_links': [
-        ("cyberaide", "http://cyberaide.org"),
-        ("Link", "http://example.com", True),
-    ],
+    # 'navbar_links': [
+    #     ("cyberaide", "http://cyberaide.org"),
+    #     ("Link", "http://example.com", True),
+    # ],
 
     # Render the next and previous page links in navbar. (Default: true)
     'navbar_sidebarrel': True,
@@ -160,7 +160,7 @@ html_theme_options = {
 
     # Location of link to source.
     # Options are "nav" (default), "footer" or anything else to exclude.
-    'source_link_position': "nav",
+    'source_link_position': "none",
 
     # Bootswatch (http://bootswatch.com/) theme.
     #
